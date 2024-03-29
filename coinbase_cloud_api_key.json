@@ -1,0 +1,33 @@
+{
+   "name": "organizations/ANONYMIZED/apiKeys/ANONYMIZED",
+   "principal": "ANONYMIZED",
+   "principalType": "USER",
+   "publicKey": "-----BEGIN EC PUBLIC KEY-----ANONYMIZED-----END EC PUBLIC KEY-----\n",
+   "privateKey": "-----BEGIN EC PRIVATE KEY-----ANONYMIZED-----END EC PRIVATE KEY-----\n",
+   "createTime": "ANONYMIZED",
+   "projectId": "ANONYMIZED",
+   "nickname": "ANONYMIZED",
+   "scopes": [
+      "rat/portfolio:ANONYMIZED#view",
+      "rat/portfolio:ANONYMIZED#trade",
+      "rat#view",
+      "rat#trade"
+   ],
+   "allowedIps": [],
+   "keyType": "TRADING_KEY",
+   "enabled": true,
+   "legacyScopes": [
+      "wallet:accounts:read",
+      "wallet:addresses:read",
+      "wallet:deposits:read",
+      "wallet:orders:read",
+      "wallet:payment-methods:read",
+      "wallet:transactions:read",
+      "wallet:user:read",
+      "wallet:withdrawals:read",
+      "wallet:user:email",
+      "wallet:user:update"
+   ],
+   "createdByUserId": "ANONYMIZED",
+   "createdByUserMongoId": "ANONYMIZED"
+}
